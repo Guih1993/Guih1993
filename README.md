@@ -11,7 +11,10 @@
 
 
 
-- 📄 Em minha carreira [Trabalho a 10 anos no setor de manutenção industrial. Já participei e orientei projetos de melhorias nos setores da produção e qualidade. Possuo formação Lean Six Sigma; pratico e vivo diariamente conceitos Lean e TPM. Atualmente estudo temas relacionados a análise de dados, aplicando conceitos de Data Driven e BI e aprofundando conhecimentos em Linux, Python e manipulação de dados em banco relacionais com SQL. Na minha carreira desenvolvi fortes habilidades analíticas, com foco em resolução de problemas técnicos e orientados a fatos.](Trabalho a 10 anos no setor de manutenção industrial. Já participei e orientei projetos de melhorias nos setores da produção e qualidade. Possuo formação Lean Six Sigma; pratico e vivo diariamente conceitos Lean e TPM. Atualmente estudo temas relacionados a análise de dados, aplicando conceitos de Data Driven e BI e aprofundando conhecimentos em Linux, Python e manipulação de dados em banco relacionais com SQL. Na minha carreira desenvolvi fortes habilidades analíticas, com foco em resolução de problemas técnicos e orientados a fatos.)
+- 📄 Trabalho a 10 anos no setor de manutenção industrial. Já participei e orientei projetos de melhorias nos setores da produção e qualidade. 
+Possuo formação Lean Six Sigma; pratico e vivo diariamente conceitos Lean e TPM. 
+Atualmente estudo temas relacionados a análise de dados, aplicando conceitos de Data Driven e BI e aprofundando conhecimentos em Linux, Python e manipulação de dados em banco relacionais com SQL. 
+Em minha carreira desenvolvi fortes habilidades analíticas, com foco em resolução de problemas técnicos e orientados a fatos.
 
 
 
