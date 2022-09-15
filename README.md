@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Guilherme</h1>
-<h3 align="center">Um ávido estudante de analise e desenvolvimento de tecnologias...</h3>
+<h3 align="center">Um ávido estudante de análise e desenvolvimento de tecnologias...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guih1993&label=Profile%20views&color=0e75b6&style=flat" alt="guih1993" /> </p>
 
