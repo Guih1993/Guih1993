@@ -1,20 +1,16 @@
 <h1 align="center">Olá 👋, Eu sou Guilherme</h1>
 <h3 align="center">Um ávido estudante de análise e desenvolvimento de tecnologias...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guih1993&label=Profile%20views&color=0e75b6&style=flat" alt="guih1993" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guih1993" alt="guih1993" /></a> </p>
-
-
-
 - 📫 Como me achar **guih.gabriel93@outlook.com**
 
 
 
-- 📄 Trabalho a 10 anos no setor de manutenção industrial. Já participei e orientei projetos de melhorias nos setores da produção e qualidade. 
-Possuo formação Lean Six Sigma; pratico e vivo diariamente conceitos Lean e TPM. 
-Atualmente estudo temas relacionados a análise de dados, aplicando conceitos de Data Driven e BI e aprofundando conhecimentos em Linux, Python e manipulação de dados em banco relacionais com SQL. 
-Em minha carreira desenvolvi fortes habilidades analíticas, com foco em resolução de problemas técnicos e orientados a fatos.
+- 📄 Profissional com atuação em Business Intelligence (BI) e Análise de Dados, especializado no desenvolvimento de soluções analíticas para suporte à tomada de decisão. Experiência em modelagem dimensional, ETL, modelagem de dados, construção de dashboards executivos e definição de KPIs utilizando Power BI, DAX, Power Query e Excel Avançado.
+
+Possui conhecimento em SQL para extração, transformação e análise de dados, além de integração com SQL Server Analysis Services (SSAS Multidimensional), elaboração de consultas MDX e consumo de cubos analíticos para aplicações em Power BI e Excel. Atua na criação de modelos semânticos, otimização de desempenho de relatórios e implementação de métricas voltadas à análise operacional, financeira e industrial.
+
+Com sólida experiência nos segmentos de Manutenção, Confiabilidade de Ativos, PPCM e Processos Industriais, desenvolve soluções de Business Intelligence capazes de transformar grandes volumes de dados em informações estratégicas, promovendo aumento da eficiência operacional, redução de custos e suporte à melhoria contínua por meio de indicadores como MTBF, MTTR, OEE, Backlog e Disponibilidade.
+
 
 
 
