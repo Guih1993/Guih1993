@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Guilherme</h1>
-<h3 align="center">Um ávido estudante de análise e desenvolvimento de tecnologias...</h3>
+<h3 align="center">Um ávido estudante de análise e ciência de dados...</h3>
 
 - 📫 Como me achar **guih.gabriel93@outlook.com**
 
