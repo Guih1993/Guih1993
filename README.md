@@ -5,7 +5,7 @@
 
 
 
-- 📄 Profissional com atuação em Business Intelligence (BI) e Análise de Dados, especializado no desenvolvimento de soluções analíticas para suporte à tomada de decisão. Experiência em modelagem dimensional, ETL, modelagem de dados, construção de dashboards executivos e definição de KPIs utilizando Power BI, DAX, Power Query e Excel Avançado.
+📄 Profissional com atuação em Business Intelligence (BI) e Análise de Dados, especializado no desenvolvimento de soluções analíticas para suporte à tomada de decisão. Experiência em modelagem dimensional, ETL, modelagem de dados, construção de dashboards executivos e definição de KPIs utilizando Power BI, DAX, Power Query e Excel Avançado.
 
 Possui conhecimento em SQL para extração, transformação e análise de dados, além de integração com SQL Server Analysis Services (SSAS Multidimensional), elaboração de consultas MDX e consumo de cubos analíticos para aplicações em Power BI e Excel. Atua na criação de modelos semânticos, otimização de desempenho de relatórios e implementação de métricas voltadas à análise operacional, financeira e industrial.
 
